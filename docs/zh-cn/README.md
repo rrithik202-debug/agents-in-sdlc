@@ -14,7 +14,7 @@ lastUpdated: 2026-09-28
 
 ### [GitHub Copilot app 导览][first-steps-app]
 
-从空文件夹创建 Space Quiz，将其发布到 GitHub，实现一个议题，完成 Copilot 审查，安排自动化任务，并探索 Canvas 工作流。
+从空文件夹创建 Space Quiz，将其发布到 GitHub，实现一个议题，完成 Copilot 审查，安排自动化任务，探索 Canvas 工作流，并使用 GitHub Pages 部署网站。
 
 ### [GitHub Copilot CLI 入门][first-steps-cli]
 
@@ -40,4 +40,4 @@ lastUpdated: 2026-09-28
 [first-steps-app]: first-steps/copilot-app/
 [first-steps-cli]: first-steps/copilot-cli/
 [first-steps-vscode]: first-steps/vscode/
-[real-world-development]: ../real-world-development/
+[real-world-development]: real-world-development/
